@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UrFatqwuonoJQ/YNXlxugwYlJnQiPN6Hq3askpxZp6Av5L93B6XRvi/1RUBEkHze5h3axoAizulfZAi61w1plQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MaxHe\\source\\repos\\OneDriveRenamer\\OneDriveRenamer\\OneDriveRenamer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MaxHe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+﻿<Window x:Class="OneDriveRenamer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OneDriveRenamer"
+        mc:Ignorable="d"
+        Title="OneDrive Rename Tool" Height="202" Width="486" >
+    <Grid Margin="0,0,10,0">
+        <Button Content="Rename OneDrive Personal" HorizontalAlignment="Left" Margin="292,49,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Revert OneDrive Personal" HorizontalAlignment="Left" Margin="292,74,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <Button Content="Rename OneDrive for Business" HorizontalAlignment="Left" Margin="292,99,0,0" VerticalAlignment="Top" Click="Button_Click_2"/>
+        <Button Content="Revert OneDrive for Business" HorizontalAlignment="Left" Margin="292,124,0,0" VerticalAlignment="Top" Click="Button_Click_3"/>
+        <Image Source="/download.png" Margin="4,3,182,3"/>
+    </Grid>
+</Window>
+    
